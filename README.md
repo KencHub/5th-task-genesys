@@ -1,4 +1,4 @@
-#SIMPLE JAVASCRIPT CHALLENGES FOR TASK 5
+# SIMPLE JAVASCRIPT CHALLENGES FOR TASK 5
 
 1) Create a function that will be able to convert figures from Fahrenheit to Celsius.
 2) Create a function that will calculate the average of numbers in an array.
