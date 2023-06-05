@@ -16,4 +16,4 @@ For numbers which are multiples of both 3 and 5 prints "FizzBuzz".
         <Ignore all spaces in the input.
         <All words must have their first letter capitalized.
         <If the final result is going to be longer than 140 characters, it should return false.
-        <If the input or result is an empty string, it should return false.*/
+        <If the input or result is an empty string, it should return false.
