@@ -8,7 +8,6 @@
 6) Create a function that receives an array of numbers of diverse numbers and returns an array containing only positive numbers.
 7) Write a program that prints the numbers from 1 to 100. But for multiples of 3 prints "Fizz" instead of the number and for the multiples of 5 prints "Buzz". For numbers which are multiples of both 3 and 5 prints "FizzBuzz".
 8) The marketing team is spending way too much time typing in hashtags. Let’s create a hashtag generator for them, our hashtag generator will meet the following criteria:
-
 - [Section 2](#id-section2)
 -[a)it must start with a hash symbol ]
 -[b) Ignore all spaces in the input.]
